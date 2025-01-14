@@ -715,8 +715,8 @@ export const sampleBooks = [
     author: "Matt Haig",
     genre: "Fantasy / Fiction",
     rating: 4.6,
-    totalCopies: 20,
-    availableCopies: 10,
+    total_copies: 20,
+    available_copies: 10,
     description:
       "A dazzling novel about all the choices that go into a life well lived, The Midnight Library tells the story of Nora Seed as she finds herself between life and death.",
     coverColor: "#1c1f40",
@@ -731,8 +731,8 @@ export const sampleBooks = [
     author: "James Clear",
     genre: "Self-Help / Productivity",
     rating: 4.9,
-    totalCopies: 99,
-    availableCopies: 50,
+    total_copies: 99,
+    available_copies: 50,
     description:
       "A revolutionary guide to making good habits, breaking bad ones, and getting 1% better every day.",
     coverColor: "#fffdf6",
@@ -747,8 +747,8 @@ export const sampleBooks = [
     author: "Kyle Simpson",
     genre: "Computer Science / JavaScript",
     rating: 4.7,
-    totalCopies: 9,
-    availableCopies: 5,
+    total_copies: 9,
+    available_copies: 5,
     description:
       "An essential guide to understanding the core mechanisms of JavaScript, focusing on scope and closures.",
     coverColor: "#f8e036",
@@ -764,8 +764,8 @@ export const sampleBooks = [
     author: "Paulo Coelho",
     genre: "Philosophy / Adventure",
     rating: 4.5,
-    totalCopies: 78,
-    availableCopies: 50,
+    total_copies: 78,
+    available_copies: 50,
     description:
       "A magical tale of Santiago, an Andalusian shepherd boy, who embarks on a journey to find a worldly treasure.",
     coverColor: "#ed6322",
@@ -781,8 +781,8 @@ export const sampleBooks = [
     author: "Cal Newport",
     genre: "Self-Help / Productivity",
     rating: 4.7,
-    totalCopies: 23,
-    availableCopies: 23,
+    total_copies: 23,
+    available_copies: 23,
     description:
       "Rules for focused success in a distracted world, teaching how to cultivate deep focus to achieve peak productivity.",
     coverColor: "#ffffff",
@@ -797,8 +797,8 @@ export const sampleBooks = [
     author: "Robert C. Martin",
     genre: "Computer Science / Programming",
     rating: 4.8,
-    totalCopies: 56,
-    availableCopies: 56,
+    total_copies: 56,
+    available_copies: 56,
     description:
       "A handbook of agile software craftsmanship, offering best practices and principles for writing clean and maintainable code.",
     coverColor: "#080c0d",
@@ -814,8 +814,8 @@ export const sampleBooks = [
     author: "Andrew Hunt, David Thomas",
     genre: "Computer Science / Programming",
     rating: 4.8,
-    totalCopies: 25,
-    availableCopies: 3,
+    total_copies: 25,
+    available_copies: 3,
     description:
       "A timeless guide for developers to hone their skills and improve their programming practices.",
     coverColor: "#100f15",
@@ -831,8 +831,8 @@ export const sampleBooks = [
     author: "Morgan Housel",
     genre: "Finance / Self-Help",
     rating: 4.8,
-    totalCopies: 10,
-    availableCopies: 5,
+    total_copies: 10,
+    available_copies: 5,
     description:
       "Morgan Housel explores the unique behaviors and mindsets that shape financial success and decision-making.",
     coverColor: "#ffffff",
@@ -993,7 +993,7 @@ const dummyBooks = [
     coverColor: "#c7cdd9",
     description:
       "A leading textbook on artificial intelligence, offering a deep dive into algorithms, machine learning, and robotics, suitable for both beginners and professionals.",
-    totalCopies: 10,
+    total_copies: 10,
     videoUrl:
       "https://www.shutterstock.com/shutterstock/videos/3482284603/preview/stock-footage-new-book-opening-green-screen-k-video-animation-chrome-key.webm",
     summary:
@@ -1009,7 +1009,7 @@ const dummyBooks = [
     coverColor: "#f7a13e",
     description:
       "A comprehensive introduction to computer networking, using a top-down approach to explain protocols, architecture, and applications.",
-    totalCopies: 25,
+    total_copies: 25,
     videoUrl:
       "https://www.shutterstock.com/shutterstock/videos/1107129903/preview/stock-footage-an-open-book-is-on-fire-big-bright-flame-burning-paper-on-old-publication-in-the-dark-book.webm",
     summary:
